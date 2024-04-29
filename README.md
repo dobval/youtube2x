@@ -13,7 +13,13 @@ one can freely publish it and give credit according to the MIT license or load i
 
 ### Firefox
 
-Follow these steps to load your local addon in Firefox:
+I prefer to add it as a temporary addon because it is easier:
+
+1. Enter `about:debugging` in the URL bar.
+2. Click on *This Firefox*.
+3. Click on *Load Temporary Add-on*.
+
+However here is another way to install the local addon in Firefox:
 
 1. Navigate to `about:config` in Firefox.
 2. Set `xpinstall.signatures.required` to `false`. This allows the installation of unsigned addons.
