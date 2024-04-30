@@ -13,7 +13,7 @@ one can freely publish it and give credit according to the MIT license or load i
 
 ### Firefox
 
-I prefer to add it as a temporary addon because it is easier:
+I prefer to add it as a temporary addon because it is easier, but it persists until a restart:
 
 1. Enter `about:debugging` in the URL bar.
 2. Click on *This Firefox*.
